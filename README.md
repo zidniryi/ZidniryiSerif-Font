@@ -22,7 +22,17 @@
 
 ## 🔤 Preview
 
-![Zidniryi Serif Preview](./previews/zidniryi-serif-preview.png)
+![Zidniryi Serif Preview](./previews/preview.png)
+
+### Code Editor
+![Zidniryi Serif Preview](./previews/code.png)
+
+###  Layout
+![Zidniryi Serif Preview](./previews/layout.png)
+
+###  Libreoffice
+![Zidniryi Serif Preview](./previews/libreoffice.png)
+
 
 ## 📐 Usage
 
