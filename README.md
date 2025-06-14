@@ -15,10 +15,9 @@
 ## 📁 Files Included
 
 - `ZidniryiSerif-Regular.ttf`
-- `ZidniryiSerif-Regular..otf`
-
+- `ZidniryiSerif-Regular.otf`
 - Poster preview images (`/previews` folder)
-- License file
+- `LICENSE` file (MIT License)
 
 ## 🔤 Preview
 
@@ -47,6 +46,16 @@ You can use **Zidniryi Serif** in:
 ## 📦 Installation
 
 To use the font locally:
+
+## 📄 License
+
+Zidniryi Serif is licensed under the MIT License, which means you can:
+
+- Use it freely in personal and commercial projects
+- Modify and adapt it to your needs
+- Distribute it with your projects
+
+See the `LICENSE` file for the full license text.
 
 ```bash
 # Move to fonts folder or system-wide directory
