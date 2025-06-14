@@ -18,6 +18,7 @@
 - `ZidniryiSerif-Regular.otf`
 - Poster preview images (`/previews` folder)
 - `LICENSE` file (MIT License)
+- `AUTHOR` file with creator information
 
 ## 🔤 Preview
 
